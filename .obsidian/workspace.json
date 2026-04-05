@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "45510bf35a0101c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "90c0cc000b1f9fa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1739245acfc3e439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Cybersecurity Mastery.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3fa994a61a92448",
+    "type": "split",
+    "children": [
+      {
+        "id": "81acdc18b9e39c6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74194c921565a6a5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "baab1ed894fefe4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d765e80a8627075b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cee33c882fb54764",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f758130569988b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b57783605b78bf4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01 Cybersecurity Mastery.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "717a459e6ebe1271",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01 Cybersecurity Mastery.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29a49c2669de0302",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a3e75813af00ea5b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01 Cybersecurity Mastery.md"
+              }
+            }
+          },
+          {
+            "id": "a0b281cf37731562",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1739245acfc3e439",
+  "lastOpenFiles": [
+    "00 Home MOC.md",
+    "01 Cybersecurity Mastery.md",
+    "zk-SNARKs.md",
+    "zK-STARKs.md",
+    "ZK-Rollups.md",
+    "z/Threat Detection & Response Labs.md",
+    "z/Offensive Security Labs.md",
+    "z/Network & Systems Security Labs.md",
+    "z/Application & Software Security Labs.md",
+    "z/GRC and Advisory Labs.md",
+    "How to Conduct a Risk Assessment.md",
+    "How to Set Up a Home Lab.md",
+    "05 Tech Career Advancement & Lifestyle.md",
+    "assets/Pasted image 20240514203216.png",
+    "assets/Pasted image 20240514165130.png",
+    "04 Emerging Tech and Future Trends.md",
+    "03 Digital Well-Being.md",
+    "02 Blockchain and Crypto.md"
+  ]
+}
